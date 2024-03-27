@@ -30,4 +30,5 @@ seaborn == 0.13.1
 statsmodels == 0.14.0
 sympy == 1.12
 torch==2.2.1
+torchvision==0.17.1
 xlwt
